@@ -4,7 +4,8 @@
 
 [![Matheus Carvalho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheus-cmc&show_icons=true&title_color=007ACC&icon_color=007ACC&text_color=FFFFFF&bg_color=151515&hide_border=true&include_all_commits=true&count_private=true&token=SEU_PAT_AQUI&cache_seconds=14400)](https://github.com/matheus-cmc)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-cmc&layout=compact&title_color=007ACC&text_color=FFFFFF&bg_color=151515&hide_border=true&langs_count=15)](https://github.com/matheus-cmc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-cmc&layout=normal&title_color=007ACC&text_color=FFFFFF&bg_color=151515&hide_border=true&langs_count=15)](https://github.com/matheus-cmc)
+
 
 
 
