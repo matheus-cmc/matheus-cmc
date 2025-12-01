@@ -2,9 +2,9 @@
 
 ### 📊 Minhas estatísticas no GitHub
 
-![Matheus Carvalho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheus-cmc&show_icons=true&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=FFFFFF&bg_color=151515&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=matheus-cmc&show_icons=true&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=FFFFFF&bg_color=151515&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-cmc&layout=compact&hide_border=true&title_color=007ACC&text_color=FFFFFF&bg_color=151515)
+![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=matheus-cmc&layout=compact&hide_border=true&title_color=007ACC&text_color=FFFFFF&bg_color=151515)
 
 
 ### 🚀 Tecnologias que uso
@@ -21,4 +21,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>
-
