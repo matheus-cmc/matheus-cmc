@@ -2,9 +2,9 @@
 
 ### 📊 Minhas estatísticas no GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheus-cmc&show_icons=true&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=FFFFFF&bg_color=151515&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=matheus-cmc&show_icons=true&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=FFFFFF&bg_color=151515&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-cmc&layout=compact&hide_border=true&title_color=007ACC&text_color=FFFFFF&bg_color=151515)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-cmc&layout=compact&hide_border=true&title_color=007ACC&text_color=FFFFFF&bg_color=151515&hide=ejs)
 
 ---
 
